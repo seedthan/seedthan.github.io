@@ -1,0 +1,6 @@
+---
+title: "Photos"
+format: html
+---
+
+Photos will go here.

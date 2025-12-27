@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Things will go here."
+  },
+  {
+    "objectID": "photos.html",
+    "href": "photos.html",
+    "title": "Photos",
+    "section": "",
+    "text": "Photos will go here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ethan Skuches",
+    "section": "",
+    "text": "Heyo! My name is Ethan Skuches (pronounced like… crutches…). I’m a forest ecologist, avid knitter, and reader, amongst other things. Professionally, I am broadly interested in how humans can best prepare forests for shifts in climate, and how this preparation coincides with public education and the commercial marketing/ supply of native plants. Outside of research, I tend to be romping around filling my time with a myriad of things (knitting, reading, swimmming, hiking, looking at plants, etc)."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +28,10 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "seedthan.github.io",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Resources will go here."
   }
 ]

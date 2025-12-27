@@ -1,11 +1,17 @@
 ---
-title: "seedthan.github.io"
+title: "Ethan Skuches"
+image: media/websiteheadshot.jpg
+toc: false
+about: 
+    template: solana
+    image-shape: rectangle
+    image-width: 25em
+    image-alt: Ethan holding a plastic container with lots of roots growing towards the base
+    links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ethan-skuches-02968518a/
+    - text: Email
+      href: mailto:aba4yv@virginia.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Heyo! My name is Ethan Skuches (pronounced like... crutches...). I'm a forest ecologist, avid knitter, and reader, amongst other things. Professionally, I am broadly interested in how humans can best prepare forests for shifts in climate, and how this preparation coincides with public education and the commercial marketing/ supply of native plants. Outside of research, I tend to be romping around filling my time with a myriad of things (knitting, reading, swimmming, hiking, looking at plants, etc).

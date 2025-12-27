@@ -3,20 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "seedthan.github.io"
+  title: "Ethan Skuches"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - photos.qmd
+      - blog.qmd
+      - resources.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: sandstone
     css: styles.css
     toc: true
+    page-layout: full
 
   
-
