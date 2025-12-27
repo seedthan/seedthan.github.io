@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "seedthan.github.io"
@@ -17,5 +18,5 @@ format:
     css: styles.css
     toc: true
 
-
+  
 
