@@ -1,6 +1,17 @@
 ---
-title: "Photos"
+title: "photos"
 format: html
 ---
 
-Photos will go here.
+| Col1 | Col2 | Col3 | Col4 |
+|------|------|------|------|
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |

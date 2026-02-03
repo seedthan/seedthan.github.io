@@ -3,20 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "Ethan Skuches"
+  title: "ethan skuches"
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - photos.qmd
+        text: about
+      - Current & Past Projects.qmd
+      - presentations.qmd
+      - href: photos.qmd
+        text: photo gallery
       - blog.qmd
-      - resources.qmd
+      - Knitting.qmd
 
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme: litera
+    css: styles.scss
+    mainfont: Inter
     toc: true
     page-layout: full
 

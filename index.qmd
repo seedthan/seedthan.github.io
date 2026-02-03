@@ -1,17 +1,60 @@
 ---
-title: "Ethan Skuches"
+title: "me (ethan)"
 image: media/websiteheadshot.jpg
 toc: false
 about: 
-    template: solana
+    template: trestles
     image-shape: rectangle
     image-width: 25em
     image-alt: Ethan holding a plastic container with lots of roots growing towards the base
     links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/ethan-skuches-02968518a/
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:aba4yv@virginia.edu
+    - icon: leaf
+      text: iNaturalist
+      href: https://inaturalist.nz/people/seedthan
 ---
 
-Heyo! My name is Ethan Skuches (pronounced like... crutches...). I'm a forest ecologist, avid knitter, and reader, amongst other things. Professionally, I am broadly interested in how humans can best prepare forests for shifts in climate, and how this preparation coincides with public education and the commercial marketing/ supply of native plants. Outside of research, I tend to be romping around filling my time with a myriad of things (knitting, reading, swimmming, hiking, looking at plants, etc).
+Heyo! I'm Ethan Skuches (pronounced like... crutches...). Professionally, I am broadly interested in how humans can best prepare forests (and ecosystems at large) for shifts in climate, and how this preparation coincides with public education and the commercial marketing/ supply of native plants.
+
+Within this, I'm really interested in how any type of planting project (restoration, urban street trees, yards, etc.) can be used as a conduit for forest assisted migration. I'm currently pursuing my PhD in Environmental Science at the University of Virginia, working with Dr. Meghan Blumstein and [the BUDS Lab](https://uva.theopenscholar.com/budslab)!
+
+Outside of research, I tend to romp around and fill my time with a myriad of things: knitting, reading, swimming, hiking, looking at plants, and losing at trivia, to name a few.
+
+::: panel-tabset
+## Education
+
+PhD Student in Environmental Science, Ecology \| University of Virginia \| Charlottesville, Virginia \| June 2025- Present
+
+B.A. in Environmental Studies \| Vassar College \| Poughkeepsie, New York \| Grad. 2022
+
+## Outreach & Volunteer Work
+
+Graduate Representative \| University of Virginia Landscape & Arboretum Committee \| Dec. 2025 - Present
+
+Graduate Student Mentor \| University of Virginia Environmental Science Department \| September 2025- Present
+
+Steering Committee Member \| Mid-Atlantic Seed Partnership, Northeast Seed Network \| June 2025- Present
+
+Member \| Municipal Tree Advisory Committee \| Beacon, New York \| 2023 - 2025
+
+Member \| Vassar College Arboretum Committee \| 2023-2025
+
+Member \| Vassar College Preserve Advisory Committee \| 2023-2025
+
+## Teaching
+
+**University of Virginia**
+
+Graduate-level TA: Introduction to GIS (Fall 2025)
+
+Undergraduate-level TA: Introduction to GIS (Fall 2025), Conservation Ecology (Spring 2026)
+
+**Vassar College**
+
+Undergraduate-level course TA: Introduction to Environmental Science Field Lab (Fall 2023, 2024)
+:::

@@ -1,0 +1,28 @@
+---
+title: "current & past projects"
+format: html
+---
+
+The current and past going ons in my professional life....
+
+## **current projects:**
+
+-   **Population Differentiation & Adaptive Significance of *Nyssa sylvatica***
+
+    -   
+
+-   **Morven Sustainability Lab Land Management**
+
+    -   Phenology Trail
+
+    -   Flora Development
+
+    -   Invasive Species Management & Monitoring
+
+-   
+
+## **past projects:**
+
+-   **Vassar College Native Plant Propagation Program**
+
+-   **Vassar - Kenauk Conservation Fellowship**
