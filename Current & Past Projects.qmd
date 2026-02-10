@@ -7,22 +7,61 @@ The current and past going ons in my professional life....
 
 ## **current projects:**
 
--   **Population Differentiation & Adaptive Significance of *Nyssa sylvatica***
+-   **Population Differentiation & Adaptive Significance of *Nyssa sylvatica (advised by [Meghan Blumstein](https://as.virginia.edu/faculty-profile/meghan-blumstein))***
 
-    -   
+    *Nyssa sylvatica*, commonly known as blackgum, is a facultative, deciduous tree species present in a variety of ecological communities in eastern temperate forests. Facultative species have an equal probability of occurring in wetland and non-wetland environments; examples include sweetgum (*Liquidambar styraciflua*) and red maple (*Acer rubrum*). In forest environments, blackgum can be found anywhere from dry upland forests to saturated soils and riverbanks. Blackgum are commonly used as street trees and decorative plantings in urban and suburban settings due to their attractive fall foliage and tolerance to urban environmental conditions including road salts, heat, and pollution. Blackgum can be found in a remarkable variety of environments, but what enables this? Is this broad range of tolerances a product of plasticity, or has blackgum genetically adapted to these various microclimates?
 
--   **Morven Sustainability Lab Land Management**
+    Trees can generate thousands of genetically diverse offspring each year; if one happens to fall in the right microsite (e.g. light, soil, moisture), it will germinate and potentially live on for hundreds to thousands of years. This research aims to understand the degree to which microenvironmental variation creates and maintains genetic differentiation in tree species within populations. Using blackgum as a proxy for other facultative tree species, this research investigates the adaptive capacity of *N. sylvatica* to respond to rapid environmental change.
+    
+    Furthermore, how does this genetic differentiation influence how we should be moving plants across landscapes?  Perhaps blackgum growing in wet environments are genetically predisposed to have higher tolerances to environmental instability.  If this is the case, should we prioritize moving those more resilient genotypes?
 
-    -   Phenology Trail
+    -   In collaboration with:
 
-    -   Flora Development
+        -   Paint Rock Forest Research Center (Trenton, AL)
+
+        -   Mohonk Preserve (Gardiner, NY)
+
+        -   Blandy Experimental Farm (Boyce, VA)
+
+        -   Vassar College (Poughkeepsie, NY)
+
+        -   Central Arkansas University (Little Rock, AR)
+
+-   [**Morven Sustainability Lab**](https://morven.virginia.edu/) **Land Management**
+
+    -   Phenology Trail & [Local Phenology Program](https://naturesnotebook.usanpn.org/npnapps/programs/1393) (est. 2026)
+
+    -   Flora Development & Database Management
 
     -   Invasive Species Management & Monitoring
 
--   
+-   **Red Oak Climate Adaptation Lab**
 
 ## **past projects:**
 
--   **Vassar College Native Plant Propagation Program**
+-   **Vassar College Native Plant Propagation Program (2023 -2025)**
 
--   **Vassar - Kenauk Conservation Fellowship**
+    -   Created Vassar College’s [Native Plant Propagation Program](https://www.vassar.edu/preserve/management/native-plant-propagation-program), distributing more than 5000 native, ecotypic plants to Hudson Valley Community.
+
+-   **Vassar - Kenauk Conservation Fellowship (2023 - 2025)**
+
+    -   Research-based fellowship connecting [The Preserve at Vassar](https://www.vassar.edu/preserve) and [The Kenauk Institute](https://institutkenauk.org/). Assisting with graduate field research and building a framework for seed collection and propagation at the Kenauk Institute.
+
+-   **Urban Arborist - Arcadis & NYC Parks (2022 - 2023)**
+
+    -   Oversaw contracts for New York City Parks Department regarding urban street tree planting and ecological restoration projects across all five boroughs.
+
+::: {.column-margin}
+![swamp milkweed seed amplification plot](media/swampamp.jpg)
+:::
+
+::: {.column-margin}
+![me working as an arborist in front of Taylor Swift's Cornelia Street penthouse](media/2022_field_work/arcadis.jpeg)
+
+:::
+
+-   **Forest Health Monitoring - NPS: NETN, MIDN (Field Season 2022)**
+
+    -   Long-term forest health monitoring in the [Northeast Temperate Network](https://www.nps.gov/im/netn/index.htm) and the [Mid-Atlantic Network](https://www.nps.gov/im/midn/index.htm) for the Inventory and Monitoring branch of the National Park Service.
+
+    -   Surveyed over 200 permanent forest plots across 20 different National Parks and National Historic Parks between Virginia and Maine.

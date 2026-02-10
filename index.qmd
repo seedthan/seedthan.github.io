@@ -16,7 +16,7 @@ about:
       href: mailto:aba4yv@virginia.edu
     - icon: leaf
       text: iNaturalist
-      href: https://inaturalist.nz/people/seedthan
+      href: https://www.inaturalist.org/people/seedthan
 ---
 
 Heyo! I'm Ethan Skuches (pronounced like... crutches...). Professionally, I am broadly interested in how humans can best prepare forests (and ecosystems at large) for shifts in climate, and how this preparation coincides with public education and the commercial marketing/ supply of native plants.
