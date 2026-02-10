@@ -10,6 +10,7 @@ website:
         text: about
       - Current & Past Projects.qmd
       - presentations.qmd
+      - restoring_resiliency.qmd
       - href: photos.qmd
         text: photo gallery
       - blog.qmd
@@ -22,5 +23,6 @@ format:
     mainfont: Inter
     toc: true
     page-layout: full
+    lightbox: true
 
   

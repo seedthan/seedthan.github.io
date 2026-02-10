@@ -1,17 +1,441 @@
 ---
 title: "photos"
 format: html
+filters: 
+  - lightbox
+lightbox: auto
 ---
+## 2025
+::: {layout="[[1, 1, 1, 1]]"}
+![chinese alangium (*Alangium chinensis*) spreading at Morven Farm](media/2025_field_work/alangspread.JPG){group="2025"
+}
 
-| Col1 | Col2 | Col3 | Col4 |
-|------|------|------|------|
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
+![helping out with amphibian migrations @ Vassar!](media/2025_field_work/amphibmig.JPG){group="2025"
+}
+
+![a very timid barn swallow](media/2025_field_work/barnswallow.JPG){group="2025"
+}
+
+![beautiful "bushwhack" at Mohonk Preserve](media/2025_field_work/beautifulwander.JPG){group="2025"
+}
+
+![amazing fabulous native beautyberry (*Callicarpa americana*)](media/2025_field_work/beautyberry1.JPG){group="2025"
+}
+
+![red maples ready for spring](media/2025_field_work/budburst.JPG){group="2025"
+}
+
+![sometimes the best way to get down is via butt scoot](media/2025_field_work/buttscoot.jpeg){group="2025"
+}
+
+![chinese alangium naturalizing at Morven](media/2025_field_work/chinesealangium.jpg){group="2025"
+}
+
+![and sometimes your friend follows your method...](media/2025_field_work/easydescentkay.JPG){group="2025"
+}
+
+![presenting at ESA 2025 in Baltimore](media/2025_field_work/esa.jpeg){group="2025"
+}
+
+![fall colors from tupelo](media/2025_field_work/falltupmorv.JPG){group="2025"
+}
+
+![research trees: flagged!](media/2025_field_work/flaggingtapeohill.JPG){group="2025"
+}
+
+![fox getting business done.. but how cute!](media/2025_field_work/foxpoo.JPG){group="2025"
+}
+
+![hepatica in alabamica!](media/2025_field_work/hepacu.JPG){group="2025"
+}
+
+![me next to a very deep cave... Alabama](media/2025_field_work/menext2cave.JPG){group="2025"
+}
+
+![another huge cave in Bama](media/2025_field_work/hugecave.JPG){group="2025"
+}
+
+![it is water!!!!](media/2025_field_work/itswater.JPG){group="2025"
+}
+
+![baby twinleaf (*Jeffersonia diphylla*) germinated from wild seed!](media/2025_field_work/jefdip.JPG){group="2025"
+}
+
+![lab dinner @ Bang!](media/2025_field_work/labdinner.JPG){group="2025"
+}
+
+![i <3 marsh marigold (*Caltha palustris*)](media/2025_field_work/marshmari.JPG){group="2025"
+}
+
+![me at UVA for prospective students day (Feb)](media/2025_field_work/meatuva.JPG){group="2025"
+}
+
+![Meghan next to our trusty steed in Alabama! a UTV!](media/2025_field_work/megutv.JPG){group="2025"
+}
+
+![me and a huge tupelo at Mohonk Preserve](media/2025_field_work/mentup.JPG){group="2025"
+}
+
+![Mia showing the forestry slingshot who's boss @ Blandy](media/2025_field_work/miaslingshot.JPG){group="2025"
+}
+
+![surveying tupelo & collecting seeds @ Mohonk](media/2025_field_work/mohotup.JPG){group="2025"
+}
+
+![funky growth pattern tupelo @ Mohonk](media/2025_field_work/mohotup1.JPG){group="2025"
+}
+
+![scouting for tupelo @ Mohonk](media/2025_field_work/mohowalk.jpeg){group="2025"
+}
+
+![breakfast during the bushwhack](media/2025_field_work/muffinbushwhack.JPG){group="2025"
+}
+
+![captured the excitement of seeing the native Callicarpa for the first time](media/2025_field_work/nativebeaut.JPG){group="2025"
+}
+
+![Northeast Natural History Conference 2025](media/2025_field_work/nenhc.jpeg){group="2025"
+}
+
+![Northeast Natural History Conference 2025](media/2025_field_work/nenhc2.jpeg){group="2025"
+}
+
+![crazy tupelo bark @ Mohonk](media/2025_field_work/oldtupmoho.JPG){group="2025"
+}
+
+![oval ladies' tresses in Alabama!](media/2025_field_work/ovalladiestresses.JPG){group="2025"
+}
+
+![this barred owl and i became close friends my last few weeks at Vassar](media/2025_field_work/owl.JPG){group="2025"
+}
+
+![pawpaw! so much! @ SCBI](media/2025_field_work/pawpawscbi.JPG){group="2025"
+}
+
+![canada mayapple (*Podophyllum peltatum*) at Edith Roberts Ecological Laboratory](media/2025_field_work/podopelt.JPG){group="2025"
+}
+
+![potting up our oaks!](media/2025_field_work/pottingup.JPG){group="2025"
+}
+
+![helping out with a prescribed burn @ Piedmont Discovery Center](media/2025_field_work/prescburn.JPG){group="2025"
+}
+
+![ramps... so vulnerable yet persistent..?](media/2025_field_work/ramps.JPG){group="2025"
+}
+
+![weeding the red columbine plot!](media/2025_field_work/redcolplot.JPG){group="2025"
+}
+
+![roll tide!!](media/2025_field_work/rolltide.JPG){group="2025"
+}
+
+![forest slingshotting at SCBI](media/2025_field_work/scbisling.JPG){group="2025"
+}
+
+![serving with the slingshot](media/2025_field_work/scbislingpose.JPG){group="2025"
+}
+
+![scorpion!! in alabama!! southern devil scorpion! (*Vaejovis carolinianus*)](media/2025_field_work/scorpion.JPG){group="2025"
+}
+
+![only documentation from a seed collection workshop i hosted with landscape arch @ UVA](media/2025_field_work/seedcolllar.JPG){group="2025"
+}
+
+![spotted lanternfly obliterating a red maple](media/2025_field_work/slfmorvacru.JPG){group="2025"
+}
+
+![native euonymus!!! (*Euonymus americanus*)](media/2025_field_work/strawbush.JPG){group="2025"
+}
+
+![sweetgum with WINGS!](media/2025_field_work/sweetgum.JPG){group="2025"
+}
+
+![transplanting trillium at Vassar: part one](media/2025_field_work/trillium1.JPG){group="2025"
+}
+
+![transplanting trillium at Vassar: part two](media/2025_field_work/trillium2.JPG){group="2025"
+}
+
+![on the prowl for tupelo seeds @ Mohonk](media/2025_field_work/tupscout.jpeg){group="2025"
+}
+
+![tupelo seeds all cleaned up!](media/2025_field_work/tupseeds.JPG){group="2025"
+}
+
+![walnut caterpillar moth! (*Datana integerrima*)](media/2025_field_work/walnutcat.JPG){group="2025"
+}
+
+:::
+
+## 2024
+
+::: {layout="[[1, 1, 1, 1]]"}
+![baby bobcats! @ Vassar](media/2024_field_work/Baby Bobcat.jpg){group="2024"
+}
+
+![little seedling bladdernuts growing! (*Staphylea trifolia*)](media/2024_field_work/babybladdernut.JPG){group="2024"
+}
+
+![baby coyote at Vassar!](media/2024_field_work/babycoyote.JPG){group="2024"
+}
+
+![golden Alexander seedlings (*Zizia aurea*)](media/2024_field_work/babygoldalex.JPG){group="2024"
+}
+
+![white pine seedling! (*Pinus strobus*)](media/2024_field_work/babywhitepine.JPG){group="2024"
+}
+
+![leading a tree hike on Mt Beacon, NY!](media/2024_field_work/beacontreehike.jpg){group="2024"
+}
+
+![finding the elusive canada lily! (*Lileum canadense*)](media/2024_field_work/canadalily.JPG){group="2024"
+}
+
+![she's blooming! (*Lilium canadense*)](media/2024_field_work/canadalily2.JPG){group="2024"
+}
+
+![beautiful cardinal flower! (*Lobelia carindalis*)](media/2024_field_work/cardinalflower.JPG){group="2024"
+}
+
+![*safely* getting chestnuts from a (hybrid) chestnut tree](media/2024_field_work/chestnut.jpeg){group="2024"
+}
+
+![coyote posing on a trail cam](media/2024_field_work/coyote.JPG){group="2024"
+}
+
+![most beautiful wetland i've ever been in](media/2024_field_work/fav.JPG){group="2024"
+}
+
+![who isn't this excited when finding cardinal flower?!](media/2024_field_work/findingcardinal.jpeg){group="2024"
+}
+
+![giant button bush (*Cephalanthus occidentalis*)](media/2024_field_work/giantbuttonbush.JPG){group="2024"
+}
+
+![golden alexander (*Zizia aurea*) cleaned seed](media/2024_field_work/goldenalexanderseed.JPG){group="2024"
+}
+
+![beautiful baby white oaks!](media/2024_field_work/gorgwhiteoaks.JPG){group="2024"
+}
+
+![absolutely monstrous hackberry (*Celtis occidentalis*)](media/2024_field_work/hackberry.JPG){group="2024"
+}
+
+![little hackberry cotyledonos](media/2024_field_work/hackberrycotyledon.JPG){group="2024"
+}
+
+![we're so happy scouting for plants!](media/2024_field_work/happyseeds.jpeg){group="2024"
+}
+
+![winged monkeyflower (*Mimulus ringens*)](media/2024_field_work/mimrin.JPG){group="2024"
+}
+
+![beautiful obedient plant](media/2024_field_work/obedient.JPG){group="2024"
+}
+
+![if i was aquilegia... where would i grow?](media/2024_field_work/pointing.jpg){group="2024"
+}
+
+![astoundingly gorgeous poke milkweed (*Asclepias exaltata*)](media/2024_field_work/pokemilk.JPG){group="2024"
+}
+
+![seed baggies and beautiful red columbine (*Aquilegia canadensis*)](media/2024_field_work/redcolumbine.JPG){group="2024"
+}
+
+![putting seed bags on some northern bush honeysuckle](media/2024_field_work/seedcol.PNG){group="2024"
+}
+
+![talking about seeds and Vassar's program to some affiliate partners!](media/2024_field_work/seedcoltalk.JPEG){group="2024"
+}
+
+![fresh baby plants grown from seed!](media/2024_field_work/seedlings.JPG){group="2024"
+}
+
+![DIY seed tornado to clean some milkweed seeds](media/2024_field_work/seedtornado.jpg){group="2024"
+}
+
+![first spotted lanternfly at Vassar... caught in a seed bag](media/2024_field_work/slf.JPG){group="2024"
+}
+
+![swamp milkweed seed amplification plot in full bloom!](media/2024_field_work/swampmilkplt.JPG){group="2024"
+}
+
+![and then came the seeds...](media/2024_field_work/swampmilkweedseed.JPG){group="2024"
+}
+
+![a little variegated sugar maple came up in germinations!](media/2024_field_work/variegatedacsa.JPG){group="2024"
+}
+
+![me and a waterfall at Bard](media/2024_field_work/waterfall.jpg){group="2024"
+}
+
+![whorled loosestrife (*Lysimachia quadrifolia*) seed collection](media/2024_field_work/whorledloosestrife.jpeg){group="2024"
+}
+
+![jugs on jugs of winter sown native plants!](media/2024_field_work/wintersowing.JPG){group="2024"
+}
+
+![and a wonky deer...](media/2024_field_work/wonkydeer.JPG){group="2024"
+}
+
+:::
+
+
+## 2023
+
+::: {layout="[[1, 1, 1, 1]]"}
+![ascending/ descending](media/2023_field_work/ascending.JPG){group="2023" description="climbing a sugar maple in Canada!"}
+
+![baby barred owls in their nest... Vassar Preserve](media/2023_field_work/babyowl.JPG){group="2023" 
+description="gotta zoom in"}
+
+![scenic view at Kenauk](media/2023_field_work/beauty.JPG){group="2023" 
+}
+
+![gorgeous bunchberry... *Cornus canadensis*](media/2023_field_work/bunchberry.JPG){group="2023" 
+}
+
+![chinese yam (*Dioscorea polystacha*) at Vassar Preserve](media/2023_field_work/chineseyam.JPG){group="2023"}
+
+![peat bog cotton grass (*Eriophorum spp.*) at Kenauk](media/2023_field_work/cottongrass.JPG){group="2023"
+}
+
+![eastern leatherwood (*Dirca palustris*), my first time!](media/2023_field_work/dircpal.JPG){group="2023" 
+}
+
+![earth star fungus @ Vassar Preserve](media/2023_field_work/earthstarfung.JPG){group="2023" 
+}
+
+![helping out with electrofishing](media/2023_field_work/electrofishing.JPG){group="2023" 
+}
+
+![helping to keep maples under drought @ Kenauk](media/2023_field_work/emptywater.JPG){group="2023"
+}
+
+![Canada summer field work... nearby fire!](media/2023_field_work/firesun.JPG){group="2023" 
+}
+
+![and then there was the flood... @ Kenauk](media/2023_field_work/flood.JPG){group="2023" 
+}
+
+![well fed garter snake (*Thamnophis spp.*)!](media/2023_field_work/garter.JPG){group="2023"
+}
+
+![someone's gotta clear these roads](media/2023_field_work/hatchet.JPG){group="2023" 
+}
+
+![my lovely pod for the summer @ Kenauk](media/2023_field_work/home.JPG){group="2023" 
+}
+
+![in a peat bog!! @ Kenauk](media/2023_field_work/inabog.JPG){group="2023" 
+}
+
+![climbing trees (with gear) for survey work @ Kenauk](media/2023_field_work/inthetree.JPG){group="2023"
+}
+
+![loon monitoring on Lac Papineau](media/2023_field_work/loons.JPG){group="2023" 
+}
+
+![marginal (notice the sori) wood fern (*Dryopteris marginalis*)](media/2023_field_work/margwoodfern.JPG){group="2023" 
+}
+
+![moose!!!!! two youngins!!!! @ Kenauk](media/2023_field_work/moose.JPG){group="2023" 
+}
+
+![moose tracks @ Kenauk](media/2023_field_work/moosetracks.JPG){group="2023" 
+}
+
+![Lac Papineau at sunset](media/2023_field_work/papineau.JPG){group="2023" 
+}
+
+![pickerelweed! all that purple! (*Pontederia cordata*) @ Kenauk](media/2023_field_work/pickerelwead.JPG){group="2023" 
+}
+
+![purple pitcher plants (*Sarracenia purpurea*)!! in a bog!! with sphagnum!! @ Kenauk](media/2023_field_work/pitcher.JPG){group="2023" 
+}
+
+![purple pitcher plant (*Sarracenia purpurea*) flower](media/2023_field_work/pitcherflower.JPG){group="2023" 
+}
+
+![good ol' porcupine @ Kenauk](media/2023_field_work/porcupine.JPG){group="2023" 
+}
+
+![water line prior to and post beaver dam breaking flood @ Kenauk](media/2023_field_work/postflood.JPG){group="2023" 
+}
+
+![pretty little stream @ Kenauk](media/2023_field_work/prettyfloodplain.JPG){group="2023" 
+}
+
+![summer crew for Kenauk!](media/2023_field_work/summercrew.JPG){group="2023" 
+}
+
+![bald cypress (*Taxodium distichum*) @ Vassar Preserve in the fall](media/2023_field_work/taxdis.JPG){group="2023" 
+}
+
+![climbing @ Kenauk](media/2023_field_work/treeclimbing.JPG){group="2023" 
+}
+
+![variegated striped maple (*Acer pensylvanicum*) @ Kenauk](media/2023_field_work/varacpe.JPG){group="2023" 
+}
+
+![variegated red maple (*Acer rubrum*) @ Kenauk](media/2023_field_work/varacru.JPG){group="2023" 
+}
+
+![the rain can't stop us from falling in love with a pink lady's slipper (*Cypripedium acaule*)](media/2023_field_work/wetladyslipper.JPG){group="2023" 
+}
+
+:::
+
+
+## 2022
+
+::: {layout="[[1, 1, 1, 1]]"}
+![plot \@ Acadia NP](media/2022_field_work/acadiaplot.jpeg){group="2022" description="trees marked at DBH height in a permanent monitoring plot in Acadia NP. peep the sphagnum!"}
+
+![into the bush (Assateague NSS)](media/2022_field_work/assateague.jpeg){group="2022" description="trotting away from the fly-free sand at Assateague NSS"}
+
+![baby basswood (*Tilia americana*)](media/2022_field_work/babybasswood.jpeg){group="2022" description="the cotyledons of tilia americana... what a joy. high five!"}
+
+![barberry forest \@ Morristown NHP](media/2022_field_work/barberryforest.jpeg){group="2022" description="the cotyledons of tilia americana... what a joy. high five!"}
+
+![beech leaf disease \@ Morristown NHP circa 2022](media/2022_field_work/beachleafdisease.jpeg){group="2022"}
+
+![box turtle & duct tape boots](media/2022_field_work/boxturtleselfie.jpeg){group="2022"}
+
+![a bust! unexpected?!](media/2022_field_work/bust.jpeg){group="2022" description="a bust in the plot at Saint Gaudens NAP"}
+
+![easy casual walk](media/2022_field_work/easytrot.jpeg){group="2022"}
+
+![Marcos, Jamie & I w/ Assateague Ponies](media/2022_field_work/horsegroup.jpeg){group="2022" description="you may have to squint"}
+
+![HWA in Acadia NP circa 2022](media/2022_field_work/hwaacadia.jpeg){group="2022" description="booo tomato tomato"}
+
+![just a lil buggy \@ Assateague NSS](media/2022_field_work/marcosbugs.jpeg){group="2022" description="all the mosquitoes... "}
+
+![classic DBH + frog)](media/2022_field_work/meandfrog.jpeg){group="2022"}
+
+![sand selfie! Assateague NSS](media/2022_field_work/meandsand.jpeg){group="2022"}
+
+![oooh yeah driving on the beach](media/2022_field_work/medrive.jpeg){group="2022"}
+
+![there are horses back there somewhere](media/2022_field_work/mehorse.jpeg){group="2022"}
+
+![to be a fern... Saratoga NHP](media/2022_field_work/pine%20crotch%20wood%20fer.jpeg){group="2022"}
+
+![pines (loblolly(?)) at Assateague NSS](media/2022_field_work/pineforest.jpeg){group="2022"}
+
+![plot center... center of the season!](media/2022_field_work/plot%20center.jpeg){group="2022"}
+
+![poison... ivy... shrub..?](media/2022_field_work/poisonivy.jpeg){group="2022"}
+
+![horse exclosure area. Assateague NSS](media/2022_field_work/projectstudyarea.jpeg){group="2022"}
+
+![gnarliest smi-rot ever](media/2022_field_work/smilaxkiller.jpeg){group="2022"}
+
+![seed ticks. yuck!](media/2022_field_work/tickbomb.jpeg){group="2022"}
+
+![talk about regen.. or lack thereof. stiltgrass. Valley Forge NHP](media/2022_field_work/valleyforgestiltgrass.jpeg){group="2022"}
+
+![pollen in the air! Saratoga NHP](media/2022_field_work/saratogapinepollen.jpeg){group="2022"}
+:::
