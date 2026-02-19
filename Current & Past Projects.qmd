@@ -12,8 +12,8 @@ The current and past going ons in my professional life....
     *Nyssa sylvatica*, commonly known as blackgum, is a facultative, deciduous tree species present in a variety of ecological communities in eastern temperate forests. Facultative species have an equal probability of occurring in wetland and non-wetland environments; examples include sweetgum (*Liquidambar styraciflua*) and red maple (*Acer rubrum*). In forest environments, blackgum can be found anywhere from dry upland forests to saturated soils and riverbanks. Blackgum are commonly used as street trees and decorative plantings in urban and suburban settings due to their attractive fall foliage and tolerance to urban environmental conditions including road salts, heat, and pollution. Blackgum can be found in a remarkable variety of environments, but what enables this? Is this broad range of tolerances a product of plasticity, or has blackgum genetically adapted to these various microclimates?
 
     Trees can generate thousands of genetically diverse offspring each year; if one happens to fall in the right microsite (e.g. light, soil, moisture), it will germinate and potentially live on for hundreds to thousands of years. This research aims to understand the degree to which microenvironmental variation creates and maintains genetic differentiation in tree species within populations. Using blackgum as a proxy for other facultative tree species, this research investigates the adaptive capacity of *N. sylvatica* to respond to rapid environmental change.
-    
-    Furthermore, how does this genetic differentiation influence how we should be moving plants across landscapes?  Perhaps blackgum growing in wet environments are genetically predisposed to have higher tolerances to environmental instability.  If this is the case, should we prioritize moving those more resilient genotypes?
+
+    Furthermore, how does this genetic differentiation influence how we should be moving plants across landscapes? Perhaps blackgum growing in wet environments are genetically predisposed to have higher tolerances to environmental instability. If this is the case, should we prioritize moving those more resilient genotypes?
 
     -   In collaboration with:
 
@@ -41,7 +41,7 @@ The current and past going ons in my professional life....
 
 -   **Vassar College Native Plant Propagation Program (2023 -2025)**
 
-    -   Created Vassar College’s [Native Plant Propagation Program](https://www.vassar.edu/preserve/management/native-plant-propagation-program), distributing more than 5000 native, ecotypic plants to Hudson Valley Community.
+    -   Created Vassar College’s [Native Plant Propagation Program](https://www.vassar.edu/preserve/management/native-plant-propagation-program), collecting seed from, growing, and distributing more than 5000 (\~150 species) native, ecotypic plants to the Hudson Valley Community.
 
 -   **Vassar - Kenauk Conservation Fellowship (2023 - 2025)**
 
@@ -51,13 +51,12 @@ The current and past going ons in my professional life....
 
     -   Oversaw contracts for New York City Parks Department regarding urban street tree planting and ecological restoration projects across all five boroughs.
 
-::: {.column-margin}
+::: column-margin
 ![swamp milkweed seed amplification plot](media/swampamp.jpg)
 :::
 
-::: {.column-margin}
+::: column-margin
 ![me working as an arborist in front of Taylor Swift's Cornelia Street penthouse](media/2022_field_work/arcadis.jpeg)
-
 :::
 
 -   **Forest Health Monitoring - NPS: NETN, MIDN (Field Season 2022)**
